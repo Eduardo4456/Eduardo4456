@@ -1,5 +1,6 @@
-- 👋 Olá, sou Eduardo
+- 👋 Olá, sou Eduardo, um programador iniciante.
 - 🌱 Busco aprender cada vez mais
+- Linguagens que estou aprendendo: Java, JavaScript, Python.
 
 <!---
 Eduardo4456/Eduardo4456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
