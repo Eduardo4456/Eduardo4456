@@ -2,8 +2,8 @@
 
 - 👋 sou Eduardo, um programador iniciante.
 - 🌱 Busco aprender cada vez mais.
-- Atualmente estudando java.
-- Linguagens que estou aprendendo: Java, JavaScript, Python, HTML, CSS.
+- Atualmente estudando programação web.
+- Linguagens que estou aprendendo: Java, JavaScript, Python, HTML, CSS e C#.
 
 ##
 
