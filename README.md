@@ -1,7 +1,7 @@
 <h1>Olá seja bem vindo ao meu perfil</h1>
 
 - 👋 sou Eduardo, um programador iniciante.
-- 🌱 Busco aprender cada vez mais.
+- 🌱 Busco obter cada vez mais conhecimento.
 - Atualmente estudando programação web.
 - Linguagens que estou aprendendo: Java, JavaScript, Python, HTML, CSS e C#.
 
