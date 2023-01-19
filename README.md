@@ -3,7 +3,6 @@
 - 👋 sou Eduardo, um programador iniciante.
 - 🌱 Busco obter cada vez mais conhecimento.
 - Atualmente estudando programação web.
-- Linguagens que estou aprendendo: Java, JavaScript, Python, HTML, CSS e C#.
 
 ##
 
