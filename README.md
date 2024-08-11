@@ -1,8 +1,7 @@
 <h1>Olá seja bem vindo ao meu perfil</h1>
 
 - 👋 Meu nome é Eduardo, sou um programador iniciante.
-- 🌱 Estou buscando obter cada vez mais conhecimento.
-- Atualmente estudando programação web.
+- 🌱 Buscando aprender cada vez mais.
 
 ##
 
