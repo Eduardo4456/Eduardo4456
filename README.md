@@ -2,6 +2,7 @@
 
 - 👋 Meu nome é Eduardo, sou um programador iniciante.
 - 🌱 Buscando aprender cada vez mais.
+- Cursando Ciência da Computação.
 
 ##
 
