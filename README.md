@@ -1,7 +1,7 @@
 <h1>Olá seja bem vindo ao meu perfil</h1>
 
-- 👋 Meu nome é Eduardo, sou um desenvolvedor buscando aprender cada vez mais.
-- Cursando Ciência da Computação.
+- 💻 I am a developer seeking to continuously expand my knowledge in order to contribute effectively to the advancement of technologies.
+- 💻 Sou um desenvolvedor buscando aprender cada vez mais para contribuir da melhor forma para o avanço das tecnologias
 
 ##
 
